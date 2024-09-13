@@ -7,7 +7,6 @@ public class Main {
     
     }
 
-    
     public static void Ausführen()
     {
         String BananeaberInMain = GUI.getText();
